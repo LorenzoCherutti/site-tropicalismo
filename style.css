@@ -10,7 +10,7 @@
   --azul: #5aa7b7;
   --texto: #252820;
   --texto-claro: #66675e;
-  --capa-gradiente: rgba(167, 150, 0, 0.534);
+  --capa-gradiente: rgba(255, 230, 0, 0.61);
   --capa-cor: rgba(99, 72, 255, 0.418);
   --largura-maxima: 1050px;
 }
@@ -50,7 +50,7 @@ header {
   gap: 20px;
 
   /* sistema que eu achei la na documentação do css, caso o sor estranhe esse código bizarro */
-  background-color: var(--verde-header);
+  background-color: rgba(44, 44, 44, 0.705);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
 
